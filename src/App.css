@@ -1,0 +1,21 @@
+
+body a:hover{
+  text-decoration: none;
+}
+
+#home{
+  height: 100vh;
+}
+
+.portfolioContainer .col-lg-3{
+  float: left;
+} 
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
